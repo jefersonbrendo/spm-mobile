@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "SAS/SPM",
+    "slug": "sas-spm",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "sasspm",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "ios": {
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Necessário para enviar sua localização no alerta de emergência."
+      }
+    },
+    "plugins": ["expo-router", "expo-location"]
+  }
+}

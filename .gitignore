@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Environment variables — NUNCA commitar chaves
+.env
+.env.local
+.env.production
+
+# Native builds
+android/
+ios/
+
+# Misc
+*.log
+.DS_Store
+.txt
