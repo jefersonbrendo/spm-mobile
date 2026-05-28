@@ -1,4 +1,4 @@
-# SAS/SPM Mobile
+# SPM Mobile
 
 Aplicativo móvel do **Sistema de Alerta e Suporte à Mulher**, desenvolvido com Expo (React Native). Permite que mulheres em situação de violência disparem alertas de emergência com localização via WhatsApp, consultem delegacias próximas e acessem informações jurídicas de proteção.
 
